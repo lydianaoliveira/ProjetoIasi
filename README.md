@@ -1,4 +1,4 @@
-# Projeto IASI
+# Comparação e validação de perfis verticais de temperatura e umidade pelo sensor IASI utilizando dados de radiossondas
 
 Este projeto visa comparar dados de perfis atmosféricos estimados pelo sensor IASI com os dados observados pelas radiossondagens durante as campanhas oceanográficas do projeto PIRATA e as radiossondas lançadas a partir das cidades de Fortaleza-CE e Natal-RN a fim de verificar a hipótese de que o sensor hiperespectral IASI é capaz de estimar perfis verticais atmosféricos de temperatura e umidade relativa do ar, com alto grau de acuracidade sobre o continente e o oceano, na área de estudo. 
 
